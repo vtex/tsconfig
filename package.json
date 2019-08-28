@@ -1,15 +1,7 @@
 {
   "name": "@vtex/tsconfig",
-  "version": "0.1.0",
-  "main": "index.js",
+  "version": "0.1.1",
+  "main": "tsconfig.json",
   "license": "MIT",
-  "scripts": {
-    "build": "tsc index.ts"
-  },
-  "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-config-vtex": "^11.0.0",
-    "prettier": "^1.18.2",
-    "typescript": "^3.5.3"
-  }
+  "devDependencies": {}
 }
