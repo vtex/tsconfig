@@ -1,0 +1,9 @@
+{
+  "extends": "vtex",
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "sourceType": "script"
+  }
+}
