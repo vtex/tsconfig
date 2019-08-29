@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2019-08-29
+### Added
+- Add `@types/node`, `@types/graphql` and `@types/jest` as default declarations.
+
 ## [0.1.1] - 2019-08-28
 ### Fixed
 - `tsconfig.json` declared as a JavaScript file.
