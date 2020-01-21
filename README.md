@@ -1,3 +1,5 @@
+# Moved to [vtex/javascript](https://github.com/vtex/javascript/blob/master/packages/tsconfig/README.md)
+
 # VTEX `tsconfig.json`
 
 This is default `tsconfig.json` that should be used by all VTEX IO apps.
