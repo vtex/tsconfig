@@ -3,7 +3,7 @@
     "alwaysStrict": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "jsx": "react",
+    "jsx": "preserve",
     "lib": ["es2017", "dom", "es2018.promise", "esnext.asynciterable"],
     "module": "es6",
     "moduleResolution": "node",
