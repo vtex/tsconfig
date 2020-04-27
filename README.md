@@ -1,4 +1,4 @@
-# Moved to [vtex/javascript](https://github.com/vtex/javascript/blob/master/packages/tsconfig/README.md)
+# Moved to [vtex/typescript](https://github.com/vtex/typescript/tree/master/packages/tsconfig/README.md)
 
 # VTEX `tsconfig.json`
 
